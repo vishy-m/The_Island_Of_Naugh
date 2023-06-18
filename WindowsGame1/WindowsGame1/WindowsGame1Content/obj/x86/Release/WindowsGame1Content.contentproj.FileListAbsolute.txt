@@ -1,0 +1,4 @@
+C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\WindowsGame1Content.contentproj.CoreCompileInputs.cache

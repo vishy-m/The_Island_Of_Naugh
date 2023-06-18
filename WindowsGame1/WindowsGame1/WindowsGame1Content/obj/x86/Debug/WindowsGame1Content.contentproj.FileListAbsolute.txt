@@ -1,0 +1,26 @@
+C:\Users\197305\source\repos\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\197305\source\repos\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\The Final Game\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\The Final Game\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\197305\Downloads\FinalGame\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\197305\Downloads\FinalGame\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Final Game\Actual Final Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Final Game\Actual Final Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\The Final Game\My Code\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\The Final Game\My Code\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\The Final Game\My Code\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\The Final Game\My Code\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\THE ACTUAL FINAL GAME\THING\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\THE ACTUAL FINAL GAME\THING\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\The Final Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\The Final Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\THE ACTUAL FINAL GAME\ENEMY FIXING\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\THE ACTUAL FINAL GAME\ENEMY FIXING\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\The Final Game\Enemy fixing and boss save\ENEMY FIXING\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\The Final Game\Enemy fixing and boss save\ENEMY FIXING\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\THE ACTUAL FINAL GAME\FR FINAL THIS TIME\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\THE ACTUAL FINAL GAME\FR FINAL THIS TIME\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Final Iteration\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Final Iteration\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentproj.CoreCompileInputs.cache

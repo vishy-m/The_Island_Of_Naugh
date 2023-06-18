@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naugh", "WindowsGame1\WindowsGame1\Naugh.csproj", "{E6948515-1B6A-4A44-A916-076C1D57BED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{C203E1A8-52C0-460C-8518-2682D78CEEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6948515-1B6A-4A44-A916-076C1D57BED5}.Debug|x86.ActiveCfg = Debug|x86
+		{E6948515-1B6A-4A44-A916-076C1D57BED5}.Debug|x86.Build.0 = Debug|x86
+		{E6948515-1B6A-4A44-A916-076C1D57BED5}.Release|x86.ActiveCfg = Release|x86
+		{E6948515-1B6A-4A44-A916-076C1D57BED5}.Release|x86.Build.0 = Release|x86
+		{C203E1A8-52C0-460C-8518-2682D78CEEAC}.Debug|x86.ActiveCfg = Debug|x86
+		{C203E1A8-52C0-460C-8518-2682D78CEEAC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C03A9D0-7B62-44EF-BEFB-0B6EB33358A9}
+	EndGlobalSection
+EndGlobal

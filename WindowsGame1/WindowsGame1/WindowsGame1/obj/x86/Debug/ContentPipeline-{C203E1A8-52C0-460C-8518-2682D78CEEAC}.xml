@@ -1,0 +1,1406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\textFont.spritefont</Source>
+      <Name>Fonts\textFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\textFont.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\FloorTile.png</Source>
+      <Name>DungeonSprites\FloorTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\FloorTile.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\WallTile.png</Source>
+      <Name>DungeonSprites\WallTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\WallTile.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\AnotherFloorTile.png</Source>
+      <Name>DungeonSprites\AnotherFloorTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\AnotherFloorTile.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Normal\Player-Walking1.png</Source>
+      <Name>Sprites\Player\Normal\Player-Walking1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\Normal\Player-Walking1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Normal\Player-Walking2.png</Source>
+      <Name>Sprites\Player\Normal\Player-Walking2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\Normal\Player-Walking2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\boat.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\boat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\boat.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\brokenBoat.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\brokenBoat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\brokenBoat.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\chaxRegular.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\chaxRegular</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\chaxRegular.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\clouds.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\clouds.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\lightning.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\lightning.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\Player-front.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\Player-front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\Player-front.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\player.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\player.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sprites\water.png</Source>
+      <Name>BeginningCutSceneSprites\Sprites\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sprites\water.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\gameComplete.png</Source>
+      <Name>DungeonSprites\gameComplete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\gameComplete.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\heart.png</Source>
+      <Name>DungeonSprites\heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\heart.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\prisonBar0.png</Source>
+      <Name>DungeonSprites\prisonBar0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\prisonBar0.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\prisonBar1.png</Source>
+      <Name>DungeonSprites\prisonBar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\prisonBar1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\prisonBar2.png</Source>
+      <Name>DungeonSprites\prisonBar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\prisonBar2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\prisonBar3.png</Source>
+      <Name>DungeonSprites\prisonBar3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\prisonBar3.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Keys\demonic key.png</Source>
+      <Name>Sprites\Keys\demonic key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Keys\demonic key.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TextSprites\textbox.png</Source>
+      <Name>Sprites\TextSprites\textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\TextSprites\textbox.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 1.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 91.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 91</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 91.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 93.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 93</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 93.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 92.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 92</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 92.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 94.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 94</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 94.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 2.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 3.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 3.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 4.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 4.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 5.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 5.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 6.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 6.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 7.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 7.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 8.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 8.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idle 9.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idle 9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idle 9.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\IdleAnim\Idlle 95.png</Source>
+      <Name>Sprites\Player\IdleAnim\Idlle 95</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\IdleAnim\Idlle 95.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\skull.png</Source>
+      <Name>DungeonSprites\skull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\skull.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword01.png</Source>
+      <Name>Sprites\Floor1\sword\sword01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword01.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword02.png</Source>
+      <Name>Sprites\Floor1\sword\sword02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword02.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword03.png</Source>
+      <Name>Sprites\Floor1\sword\sword03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword03.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword04.png</Source>
+      <Name>Sprites\Floor1\sword\sword04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword04.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword05.png</Source>
+      <Name>Sprites\Floor1\sword\sword05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword05.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword06.png</Source>
+      <Name>Sprites\Floor1\sword\sword06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword06.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword07.png</Source>
+      <Name>Sprites\Floor1\sword\sword07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword07.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword08.png</Source>
+      <Name>Sprites\Floor1\sword\sword08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword08.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword09.png</Source>
+      <Name>Sprites\Floor1\sword\sword09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword09.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword10.png</Source>
+      <Name>Sprites\Floor1\sword\sword10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword10.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword11.png</Source>
+      <Name>Sprites\Floor1\sword\sword11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword11.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword12.png</Source>
+      <Name>Sprites\Floor1\sword\sword12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword12.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword13.png</Source>
+      <Name>Sprites\Floor1\sword\sword13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword13.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword14.png</Source>
+      <Name>Sprites\Floor1\sword\sword14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword14.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword15.png</Source>
+      <Name>Sprites\Floor1\sword\sword15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword15.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword16.png</Source>
+      <Name>Sprites\Floor1\sword\sword16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword16.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword17.png</Source>
+      <Name>Sprites\Floor1\sword\sword17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword17.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword18.png</Source>
+      <Name>Sprites\Floor1\sword\sword18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword18.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword19.png</Source>
+      <Name>Sprites\Floor1\sword\sword19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword19.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword20.png</Source>
+      <Name>Sprites\Floor1\sword\sword20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword20.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword21.png</Source>
+      <Name>Sprites\Floor1\sword\sword21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword21.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword22.png</Source>
+      <Name>Sprites\Floor1\sword\sword22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword22.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword23.png</Source>
+      <Name>Sprites\Floor1\sword\sword23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword23.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword24.png</Source>
+      <Name>Sprites\Floor1\sword\sword24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword24.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword25.png</Source>
+      <Name>Sprites\Floor1\sword\sword25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword25.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword26.png</Source>
+      <Name>Sprites\Floor1\sword\sword26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword26.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword27.png</Source>
+      <Name>Sprites\Floor1\sword\sword27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword27.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Buttons\button.png</Source>
+      <Name>Sprites\Buttons\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Buttons\button.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\sword\sword28.png</Source>
+      <Name>Sprites\Floor1\sword\sword28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\sword\sword28.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blue Husk.png</Source>
+      <Name>Blue Husk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Blue Husk.xnb</Output>
+      <Time>2023-05-10T03:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\Gate1.png</Source>
+      <Name>DungeonSprites\Gate1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\Gate1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathCutScene\chax.png</Source>
+      <Name>DeathCutScene\chax</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DeathCutScene\chax.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathCutScene\gameOver.png</Source>
+      <Name>DeathCutScene\gameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DeathCutScene\gameOver.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathCutScene\player.png</Source>
+      <Name>DeathCutScene\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DeathCutScene\player.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.jpg</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathCutScene\white.jpg</Source>
+      <Name>DeathCutScene\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DeathCutScene\white.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\Gate2.png</Source>
+      <Name>DungeonSprites\Gate2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\Gate2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\PrisonBars\prisonBar0.png</Source>
+      <Name>DungeonSprites\PrisonBars\prisonBar0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\PrisonBars\prisonBar0.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\PrisonBars\prisonBar1.png</Source>
+      <Name>DungeonSprites\PrisonBars\prisonBar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\PrisonBars\prisonBar1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\PrisonBars\prisonBar2.png</Source>
+      <Name>DungeonSprites\PrisonBars\prisonBar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\PrisonBars\prisonBar2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\PrisonBars\prisonBar3.png</Source>
+      <Name>DungeonSprites\PrisonBars\prisonBar3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\PrisonBars\prisonBar3.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Normal\Player-back.png</Source>
+      <Name>Sprites\Player\Normal\Player-back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\Normal\Player-back.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Normal\Player-front.png</Source>
+      <Name>Sprites\Player\Normal\Player-front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Player\Normal\Player-front.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSprites\portal.jpg</Source>
+      <Name>DungeonSprites\portal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSprites\portal.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\Tiles\Column.png</Source>
+      <Name>Sprites\Floor1\Tiles\Column</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\Tiles\Column.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\Tiles\FloorTile.png</Source>
+      <Name>Sprites\Floor1\Tiles\FloorTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\Tiles\FloorTile.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\Tiles\WallTile.png</Source>
+      <Name>Sprites\Floor1\Tiles\WallTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\Tiles\WallTile.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\Tiles\FloorTile2.png</Source>
+      <Name>Sprites\Floor1\Tiles\FloorTile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\Tiles\FloorTile2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Floor1\Tiles\grass.png</Source>
+      <Name>Sprites\Floor1\Tiles\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\Floor1\Tiles\grass.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NextFloorGate.png</Source>
+      <Name>NextFloorGate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\NextFloorGate.xnb</Output>
+      <Time>2023-05-10T03:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NextFloorGate2.png</Source>
+      <Name>NextFloorGate2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\NextFloorGate2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DoorClosed.png</Source>
+      <Name>DoorClosed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DoorClosed.xnb</Output>
+      <Time>2023-05-10T03:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DoorOpened.png</Source>
+      <Name>DoorOpened</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DoorOpened.xnb</Output>
+      <Time>2023-05-10T03:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim01.png</Source>
+      <Name>dashAnim\dashAnim01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim01.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim02.png</Source>
+      <Name>dashAnim\dashAnim02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim02.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim03.png</Source>
+      <Name>dashAnim\dashAnim03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim03.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim04.png</Source>
+      <Name>dashAnim\dashAnim04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim04.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim05.png</Source>
+      <Name>dashAnim\dashAnim05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim05.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim06.png</Source>
+      <Name>dashAnim\dashAnim06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim06.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim07.png</Source>
+      <Name>dashAnim\dashAnim07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim07.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim08.png</Source>
+      <Name>dashAnim\dashAnim08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim08.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim09.png</Source>
+      <Name>dashAnim\dashAnim09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim09.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim10.png</Source>
+      <Name>dashAnim\dashAnim10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim10.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim11.png</Source>
+      <Name>dashAnim\dashAnim11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim11.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim12.png</Source>
+      <Name>dashAnim\dashAnim12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim12.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim13.png</Source>
+      <Name>dashAnim\dashAnim13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim13.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim14.png</Source>
+      <Name>dashAnim\dashAnim14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim14.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dashAnim\dashAnim15.png</Source>
+      <Name>dashAnim\dashAnim15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dashAnim\dashAnim15.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash1.png</Source>
+      <Name>DashAnimP\l1_dash1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash2.png</Source>
+      <Name>DashAnimP\l1_dash2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash3.png</Source>
+      <Name>DashAnimP\l1_dash3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash3.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash4.png</Source>
+      <Name>DashAnimP\l1_dash4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash4.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash5.png</Source>
+      <Name>DashAnimP\l1_dash5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash5.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash6.png</Source>
+      <Name>DashAnimP\l1_dash6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash6.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash7.png</Source>
+      <Name>DashAnimP\l1_dash7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash7.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimP\l1_dash8.png</Source>
+      <Name>DashAnimP\l1_dash8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimP\l1_dash8.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash0.png</Source>
+      <Name>DashAnimV\dash0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash0.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash1.png</Source>
+      <Name>DashAnimV\dash1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash1.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash2.png</Source>
+      <Name>DashAnimV\dash2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash2.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash3.png</Source>
+      <Name>DashAnimV\dash3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash3.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash4.png</Source>
+      <Name>DashAnimV\dash4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash4.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash5.png</Source>
+      <Name>DashAnimV\dash5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash5.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash6.png</Source>
+      <Name>DashAnimV\dash6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash6.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DashAnimV\dash7.png</Source>
+      <Name>DashAnimV\dash7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DashAnimV\dash7.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>knight.png</Source>
+      <Name>knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\knight.xnb</Output>
+      <Time>2023-05-10T03:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>redEnemy.png</Source>
+      <Name>redEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\redEnemy.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye00.png</Source>
+      <Name>Eye\Eye00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye00.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye01.png</Source>
+      <Name>Eye\Eye01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye01.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye02.png</Source>
+      <Name>Eye\Eye02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye02.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye03.png</Source>
+      <Name>Eye\Eye03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye03.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye04.png</Source>
+      <Name>Eye\Eye04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye04.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye05.png</Source>
+      <Name>Eye\Eye05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye05.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye06.png</Source>
+      <Name>Eye\Eye06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye06.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye07.png</Source>
+      <Name>Eye\Eye07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye07.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye08.png</Source>
+      <Name>Eye\Eye08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye08.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye09.png</Source>
+      <Name>Eye\Eye09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye09.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye10.png</Source>
+      <Name>Eye\Eye10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye10.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye11.png</Source>
+      <Name>Eye\Eye11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye11.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye12.png</Source>
+      <Name>Eye\Eye12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye12.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye13.png</Source>
+      <Name>Eye\Eye13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye13.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye14.png</Source>
+      <Name>Eye\Eye14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye14.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye15.png</Source>
+      <Name>Eye\Eye15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye15.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye16.png</Source>
+      <Name>Eye\Eye16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye16.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye17.png</Source>
+      <Name>Eye\Eye17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye17.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye18.png</Source>
+      <Name>Eye\Eye18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye18.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye19.png</Source>
+      <Name>Eye\Eye19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye19.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye20.png</Source>
+      <Name>Eye\Eye20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye20.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye\Eye21.png</Source>
+      <Name>Eye\Eye21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Eye\Eye21.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sounds\Thriller.wav</Source>
+      <Name>BeginningCutSceneSprites\Sounds\Thriller</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sounds\Thriller.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sounds\thunder.wav</Source>
+      <Name>BeginningCutSceneSprites\Sounds\thunder</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sounds\thunder.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BeginningCutSceneSprites\Sounds\ThunderSFX.wav</Source>
+      <Name>BeginningCutSceneSprites\Sounds\ThunderSFX</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BeginningCutSceneSprites\Sounds\ThunderSFX.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DungeonSFX\background music.wav</Source>
+      <Name>DungeonSFX\background music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DungeonSFX\background music.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathCutScene\laugh.wav</Source>
+      <Name>DeathCutScene\laugh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DeathCutScene\laugh.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathCutScene\Thriller.wav</Source>
+      <Name>DeathCutScene\Thriller</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DeathCutScene\Thriller.xnb</Output>
+      <Time>2023-05-10T03:51:44-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C203E1A8-52C0-460C-8518-2682D78CEEAC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vishy\OneDrive\Desktop\Final Iteration\thing\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-10-04T22:01:39.5928886-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

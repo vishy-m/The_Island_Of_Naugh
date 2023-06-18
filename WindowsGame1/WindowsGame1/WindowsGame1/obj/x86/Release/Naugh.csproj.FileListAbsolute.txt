@@ -1,0 +1,179 @@
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Fonts\textFont.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\FloorTile.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\WallTile.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\AnotherFloorTile.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\Normal\Player-Walking1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\Normal\Player-Walking2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\boat.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\brokenBoat.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\chaxRegular.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\clouds.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\lightning.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\Player-front.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\player.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sprites\water.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\gameComplete.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\heart.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\prisonBar0.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\prisonBar1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\prisonBar2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\prisonBar3.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Keys\demonic key.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\TextSprites\textbox.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 91.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 93.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 92.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 94.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 3.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 4.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 5.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 6.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 7.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 8.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idle 9.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\IdleAnim\Idlle 95.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\skull.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword01.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword02.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword03.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword04.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword05.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword06.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword07.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword08.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword09.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword10.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword11.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword12.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword13.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword14.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword15.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword16.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword17.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword18.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword19.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword20.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword21.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword22.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword23.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword24.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword25.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword26.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword27.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Buttons\button.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\sword\sword28.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Blue Husk.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\Gate1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DeathCutScene\chax.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DeathCutScene\gameOver.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DeathCutScene\player.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\white.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DeathCutScene\white.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\Gate2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\PrisonBars\prisonBar0.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\PrisonBars\prisonBar1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\PrisonBars\prisonBar2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\PrisonBars\prisonBar3.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\Normal\Player-back.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Player\Normal\Player-front.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSprites\portal.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\Tiles\Column.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\Tiles\FloorTile.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\Tiles\WallTile.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\Tiles\FloorTile2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprites\Floor1\Tiles\grass.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\NextFloorGate.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\NextFloorGate2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DoorClosed.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DoorOpened.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim01.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim02.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim03.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim04.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim05.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim06.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim07.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim08.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim09.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim10.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim11.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim12.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim13.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim14.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\dashAnim\dashAnim15.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash3.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash4.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash5.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash6.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash7.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimP\l1_dash8.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash0.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash1.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash2.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash3.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash4.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash5.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash6.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DashAnimV\dash7.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\knight.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\redEnemy.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye00.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye01.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye02.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye03.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye04.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye05.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye06.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye07.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye08.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye09.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye10.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye11.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye12.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye13.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye14.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye15.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye16.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye17.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye18.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye19.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye20.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Eye\Eye21.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sounds\Thriller.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sounds\thunder.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\BeginningCutSceneSprites\Sounds\ThunderSFX.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DungeonSFX\background music.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DeathCutScene\laugh.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\DeathCutScene\Thriller.xnb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Text Files\tileMap.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Text Files\overTileMap.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Text Files\Floor1Tiles.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Text Files\FloorBossRoomOT.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Text Files\Floor1OverTiles.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Text Files\FloorBossRoom.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Naugh.csproj.AssemblyReference.cache
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Naugh.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Naugh.csproj.CopyComplete
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+C:\Users\Vishy\Githubprojects\The-Island-Of-Naugh\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
